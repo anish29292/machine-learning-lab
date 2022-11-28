@@ -1,0 +1,16 @@
+general:
+steps:
+  # mtaBuild:
+  #   buildTarget: 'CF'
+  # checkmarxExecuteScan:
+  #   projectName: 'DO Automation'
+  #   serverUrl: 'https://cx.wdf.sap.corp'
+  #   teamName: '/CxServer/SP/SAP/INTERNAL/AICOE'
+  #   checkmarxCredentialsId: '2b2e25a2-a0dc-4985-9395-cccf218f2b8e'
+  # cloudFoundryDeploy:
+  #   deployTool: 'mtaDeployPlugin'
+  #   deployType: 'standard'
+  #   cloudFoundry:
+  #     org: 'sapit-core-dev'
+  #     space: 'do-automation'
+  #     credentialsId: 'c9a2f367-bffd-4570-836a-11702ae10599'
