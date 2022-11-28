@@ -48,7 +48,7 @@ setup(
     install_requires=[
         "fastapi",
         "loguru",
-        "contaxy==0.0.21",
+        "contaxy==0.0.22",
         "email-validator"
     ],
     # deprecated: dependency_links=dependency_links,
@@ -85,6 +85,7 @@ setup(
             "uvicorn",
         ],
     },
+    setup_requires=['wheel'],
     include_package_data=True,
     package_data={
         # If there are data files included in your packages that need to be
